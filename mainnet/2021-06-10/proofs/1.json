@@ -1,0 +1,2690 @@
+{
+  "0x5d25c789d07f347e04aa65ba0daf2d61730bbac8": {
+    "snapshot": {
+      "total": "208165671258981820812458",
+      "balances": {
+        "yPool": "2497289952374982376820",
+        "sUSD": "2498686157840581322679",
+        "yPoolCompensation": "104053748015624265700833",
+        "sUSDCompensation": "104111923243357555111625"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xbec36120302c169b85cbbd533cbd465293b38461b379349e516b1e0f6ca33779",
+      "0xd02a25b3da3feb7976af1279f6a00cd4d5bc46b20989454fb5fbefc34a3b739f",
+      "0x901b83835092e016a7828b093b88983c511b8f97c33bd108e421e89600ab2c63",
+      "0xc857822fa43844496b391ba7f3dfd53ee5553eb65fb3adb3996f9feb1c0af93c",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xbb150bc7f3ba780553abaefd0421482d0a9cb53a": {
+    "snapshot": {
+      "total": "171361909075288178741750",
+      "balances": {
+        "yPool": "1395410402974819148686",
+        "sUSD": "2717275414832097141116",
+        "yPoolCompensation": "58142100123950797861916",
+        "sUSDCompensation": "113219808951337380879833"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x0fa63602bc736f530f273050f686f4c32a93814877acab432054626009668d64",
+      "0xd02a25b3da3feb7976af1279f6a00cd4d5bc46b20989454fb5fbefc34a3b739f",
+      "0x901b83835092e016a7828b093b88983c511b8f97c33bd108e421e89600ab2c63",
+      "0xc857822fa43844496b391ba7f3dfd53ee5553eb65fb3adb3996f9feb1c0af93c",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x37aa859a834299ef8f75cb809eb94a967b7493e9": {
+    "snapshot": {
+      "total": "2083333333333333333333333",
+      "balances": {
+        "yPool": "50000000000000000000000",
+        "sUSD": "0",
+        "yPoolCompensation": "2083333333333333333333333",
+        "sUSDCompensation": "0"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xc9f927def4606501e1b62e69ae8c68c84e0c51761b6bea889a7f2281d641cc64",
+      "0x8971a2db384f9f03442c7d3372795d5891961e7d87cd6d8ebc7b396ddd836e42",
+      "0x901b83835092e016a7828b093b88983c511b8f97c33bd108e421e89600ab2c63",
+      "0xc857822fa43844496b391ba7f3dfd53ee5553eb65fb3adb3996f9feb1c0af93c",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xd9d3dd56936f90ea4c7677f554dfefd45ef6df0f": {
+    "snapshot": {
+      "total": "148176045961655005380125",
+      "balances": {
+        "yPool": "2236000000000000000000",
+        "sUSD": "1320225103079720129123",
+        "yPoolCompensation": "93166666666666666666666",
+        "sUSDCompensation": "55009379294988338713458"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xc605fc0f1341b90df9207d52213f367dbf87a5a7da5df6df021674aa1e8e2250",
+      "0x8971a2db384f9f03442c7d3372795d5891961e7d87cd6d8ebc7b396ddd836e42",
+      "0x901b83835092e016a7828b093b88983c511b8f97c33bd108e421e89600ab2c63",
+      "0xc857822fa43844496b391ba7f3dfd53ee5553eb65fb3adb3996f9feb1c0af93c",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xc28f85d6a2cd2252dac06f3db42a17033c4e7791": {
+    "snapshot": {
+      "total": "129484486541666666666666",
+      "balances": {
+        "yPool": "3107627677000000000000",
+        "sUSD": "0",
+        "yPoolCompensation": "129484486541666666666666",
+        "sUSDCompensation": "0"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xc27ab3973afe364ec774ef990d22268281e01da2c87708b5247d4334ec25ad25",
+      "0xe8fb5f7aa077cab493bb79620fa689da7ad2c62d52173a22e03bb49abfa873f7",
+      "0x6856d6168e9f70d7b62187a7eedb1c0c1836bda058957f7eba400427a57024d2",
+      "0xc857822fa43844496b391ba7f3dfd53ee5553eb65fb3adb3996f9feb1c0af93c",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x9efab36288565dc343b6909350767cb392aa4f69": {
+    "snapshot": {
+      "total": "416233678385132413669208",
+      "balances": {
+        "yPool": "9989608281243177928061",
+        "sUSD": "0",
+        "yPoolCompensation": "416233678385132413669208",
+        "sUSDCompensation": "0"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5d8a569ac7fea53d9ea271032d5f9ea5c9e393913da5fd2fe7a9783b6081cbd1",
+      "0xe8fb5f7aa077cab493bb79620fa689da7ad2c62d52173a22e03bb49abfa873f7",
+      "0x6856d6168e9f70d7b62187a7eedb1c0c1836bda058957f7eba400427a57024d2",
+      "0xc857822fa43844496b391ba7f3dfd53ee5553eb65fb3adb3996f9feb1c0af93c",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x6be99e78ce0926ec872e3e3f1e1402575d74425d": {
+    "snapshot": {
+      "total": "149448116289703841732375",
+      "balances": {
+        "yPool": "3586018635000000000000",
+        "sUSD": "736155952892201577",
+        "yPoolCompensation": "149417443125000000000000",
+        "sUSDCompensation": "30673164703841732375"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x095c2b0c614caee1210d3af45a3ab6e87a5ae9dba6816336c7552eb8a2af50d9",
+      "0xfed8caeff634d2c7c75bcc7820455609efa71b83001ccb4bfead308735ecd53b",
+      "0x6856d6168e9f70d7b62187a7eedb1c0c1836bda058957f7eba400427a57024d2",
+      "0xc857822fa43844496b391ba7f3dfd53ee5553eb65fb3adb3996f9feb1c0af93c",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x74ab5d0ccdb5a8b8be357bf395f121e5bcaeb86f": {
+    "snapshot": {
+      "total": "107409669317154547816208",
+      "balances": {
+        "yPool": "2576877643574099238516",
+        "sUSD": "954420037609909073",
+        "yPoolCompensation": "107369901815587468271500",
+        "sUSDCompensation": "39767501567079544708"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x06abaf3d83db7904b540b91aa29e80851f563288390ace9133472f85bd179524",
+      "0xfed8caeff634d2c7c75bcc7820455609efa71b83001ccb4bfead308735ecd53b",
+      "0x6856d6168e9f70d7b62187a7eedb1c0c1836bda058957f7eba400427a57024d2",
+      "0xc857822fa43844496b391ba7f3dfd53ee5553eb65fb3adb3996f9feb1c0af93c",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x42a64201a842ede7e617a36b0256dc20ad34fa88": {
+    "snapshot": {
+      "total": "1167516898052075868208",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "28020405553249820837",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "1167516898052075868208"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xd3c50fa0f852cca0a5298ed504e3a874f3e1da5f1b5bef6a6e250876565dc9fc",
+      "0x94d3306a6e2da24f75c7030fac92d7b59a034ed854a25d74441f287d12b89f99",
+      "0x3baed0314a55006bd09cb50d39250bd9cd5ad1a92cf899ec2f397dc0876ef2e9",
+      "0xc89ae69632060fe8b8704db50be31c9a55ae2d4e9a1b8f4f4fb6717c7ddf4627",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x51a23045db018780dd40c890c62368c187e8d179": {
+    "snapshot": {
+      "total": "21015524559488868958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "504372589427732855",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "21015524559488868958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x0a5edaba8ced020a03f89c8b45d055996cf2510e63acd7bb768c6b9bba909240",
+      "0x94d3306a6e2da24f75c7030fac92d7b59a034ed854a25d74441f287d12b89f99",
+      "0x3baed0314a55006bd09cb50d39250bd9cd5ad1a92cf899ec2f397dc0876ef2e9",
+      "0xc89ae69632060fe8b8704db50be31c9a55ae2d4e9a1b8f4f4fb6717c7ddf4627",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xbcff81420d024627edd07ab9468aff7881805d57": {
+    "snapshot": {
+      "total": "23425547340581473791",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "562213136173955371",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "23425547340581473791"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xc527c157d5623485d3b506f3987df39d57c89ef17a6f1b3fc192bd937780233b",
+      "0x447aa8765218a0834d859e99f18c9153436ba5b3056cf2a9edea459285a4112b",
+      "0x3baed0314a55006bd09cb50d39250bd9cd5ad1a92cf899ec2f397dc0876ef2e9",
+      "0xc89ae69632060fe8b8704db50be31c9a55ae2d4e9a1b8f4f4fb6717c7ddf4627",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xb1945d5962a0a3d9b88679de4409ca377e4d08bd": {
+    "snapshot": {
+      "total": "38106598306919784333",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "914558359366074824",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "38106598306919784333"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xed810fe5883b9faf34417e01b23a203b8859afed41ead33be6d258c16f5c80b7",
+      "0x447aa8765218a0834d859e99f18c9153436ba5b3056cf2a9edea459285a4112b",
+      "0x3baed0314a55006bd09cb50d39250bd9cd5ad1a92cf899ec2f397dc0876ef2e9",
+      "0xc89ae69632060fe8b8704db50be31c9a55ae2d4e9a1b8f4f4fb6717c7ddf4627",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x46e6f25d092ad9048a3c2bf09a8ea02fa15f0d05": {
+    "snapshot": {
+      "total": "32107557881126747291",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "770581389147041935",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "32107557881126747291"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xd62a6d9b0e34751e1ae65b2ea119e89cf6ecb9d9b8eb8cf2285a3bb8a2a74a1d",
+      "0x62e968abd06c26547820eb604b87e57125fd8b3f435c6f21f8c6e76e22e53920",
+      "0x6f9743a3dbb466df46630f98dcda3e36966024b18531385a467b8dfec7d853b1",
+      "0xc89ae69632060fe8b8704db50be31c9a55ae2d4e9a1b8f4f4fb6717c7ddf4627",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x4f50d47d20380172746527bbeaa274940c38efac": {
+    "snapshot": {
+      "total": "28618435811748325875",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "686842459481959821",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "28618435811748325875"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5178301daa91796212e66b088f893285ec6dc1508cb6b80df186736e8ae58f37",
+      "0x62e968abd06c26547820eb604b87e57125fd8b3f435c6f21f8c6e76e22e53920",
+      "0x6f9743a3dbb466df46630f98dcda3e36966024b18531385a467b8dfec7d853b1",
+      "0xc89ae69632060fe8b8704db50be31c9a55ae2d4e9a1b8f4f4fb6717c7ddf4627",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x91a503945eaf68ff638da328931f460893ef42d6": {
+    "snapshot": {
+      "total": "41556123915032467037791",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "997346973960779208907",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41556123915032467037791"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6012c0bb567a10658ddb68c089af9fcc0dfb6c7382091944f194cbb7ff03ecc1",
+      "0x7e2030cb756835d3adee9a11de8a67a3ffa83f98c3b4829216dee81f450d1aaf",
+      "0x6f9743a3dbb466df46630f98dcda3e36966024b18531385a467b8dfec7d853b1",
+      "0xc89ae69632060fe8b8704db50be31c9a55ae2d4e9a1b8f4f4fb6717c7ddf4627",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xe86a383f599eb082f0dd6187dc144e22893220f6": {
+    "snapshot": {
+      "total": "20807486752083333333333",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "499379682050000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "20807486752083333333333"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xbb0ffcf9692993e3abad861a8f9d263639c5fb5f87c2cfa080c83dccb8fc7cfb",
+      "0x7e2030cb756835d3adee9a11de8a67a3ffa83f98c3b4829216dee81f450d1aaf",
+      "0x6f9743a3dbb466df46630f98dcda3e36966024b18531385a467b8dfec7d853b1",
+      "0xc89ae69632060fe8b8704db50be31c9a55ae2d4e9a1b8f4f4fb6717c7ddf4627",
+      "0x37cee77bbd05504111f2401b321f493eed73656a1754449cf576314433385e9b",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x3c229864378b3b0adf98ae247ca33986aed8ec1e": {
+    "snapshot": {
+      "total": "42986539703724965178250",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1031676952889399164278",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "42986539703724965178250"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x3944f686cf4cb3cef1137dfd52c618a23a8dc4a3a202813b73e2fb9459520c27",
+      "0x2c761cc96921b3560937082be5209f87741abbe5e2a20a51051b5dab0cca973d",
+      "0xcd8c7f33e8d9182e061df5c02a305f25ca298e50f62157acf46ac5ec9cac5f82",
+      "0xe0c8334e41333cebb2f089993d4b9233db5806a4913e357abded823d36990267",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x7d480d5fa0e8ab1232c02daf9aba33fd812987fa": {
+    "snapshot": {
+      "total": "38393178621825452375",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "921436286923810857",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "38393178621825452375"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x78c83b8eb3b52da0975b195af5a97e7f10637fa8e8dffc724c5f1281b07c1544",
+      "0x2c761cc96921b3560937082be5209f87741abbe5e2a20a51051b5dab0cca973d",
+      "0xcd8c7f33e8d9182e061df5c02a305f25ca298e50f62157acf46ac5ec9cac5f82",
+      "0xe0c8334e41333cebb2f089993d4b9233db5806a4913e357abded823d36990267",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x6bac48867bc94ff20b4c62b21d484a44d04d342c": {
+    "snapshot": {
+      "total": "5369519429783456443958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "128868466314802954655",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "5369519429783456443958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x3f6a523647c9fe9a64cc67af6362c0a60f7322c0758682557bbf1c8d834fd24a",
+      "0x33032bda2f6d43dd532fec0ce11b83bfb05d62ab01e992c2f18afbb607b17952",
+      "0xcd8c7f33e8d9182e061df5c02a305f25ca298e50f62157acf46ac5ec9cac5f82",
+      "0xe0c8334e41333cebb2f089993d4b9233db5806a4913e357abded823d36990267",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x0ef8582381874780e4cdbbeaef8bfa1f9cd34dae": {
+    "snapshot": {
+      "total": "5761001559029724210458",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "138264037416713381051",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "5761001559029724210458"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x0248c1125eaf27354b414cef4b7e1f046168db954d7d19359a5ec2aae35001f4",
+      "0x33032bda2f6d43dd532fec0ce11b83bfb05d62ab01e992c2f18afbb607b17952",
+      "0xcd8c7f33e8d9182e061df5c02a305f25ca298e50f62157acf46ac5ec9cac5f82",
+      "0xe0c8334e41333cebb2f089993d4b9233db5806a4913e357abded823d36990267",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x8a9bcdc68d19e111663d6c986caf1da1eda1c304": {
+    "snapshot": {
+      "total": "24510756060037002208",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "588258145440888053",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "24510756060037002208"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x7c6272bb45d6e129759d8bce4695107b911ec955d83dad0f489845aa9597ef2a",
+      "0x706254b00e38baeaad9a081014ff618442567e5ca14962aec2a7c5d526ec41c4",
+      "0x3f483fbff6cd89979fd17eba7b2fe1a0a5c8005e8626eadb35ff97f87cf4e74c",
+      "0xe0c8334e41333cebb2f089993d4b9233db5806a4913e357abded823d36990267",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x373af10b9e12bfa505149f287edd0f00511ee886": {
+    "snapshot": {
+      "total": "224829657674109090208",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "5395911784178618165",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "224829657674109090208"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xc7103a580d12e3b77d15cd651ce43afe840bdeece7be574b4bcb2bbc94567120",
+      "0x706254b00e38baeaad9a081014ff618442567e5ca14962aec2a7c5d526ec41c4",
+      "0x3f483fbff6cd89979fd17eba7b2fe1a0a5c8005e8626eadb35ff97f87cf4e74c",
+      "0xe0c8334e41333cebb2f089993d4b9233db5806a4913e357abded823d36990267",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xac9e6fa8ad5214f365e99ee96227598ea1e4b20c": {
+    "snapshot": {
+      "total": "27689337585597738000",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "664544102054345712",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "27689337585597738000"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5e49f3d612f7543a3a842b7322b2387800d579c216f2cf270639961176f98a4d",
+      "0x22a913457ef709623d1627b581bb29b453ad9d3cac219a56271fd42259b5456b",
+      "0x3f483fbff6cd89979fd17eba7b2fe1a0a5c8005e8626eadb35ff97f87cf4e74c",
+      "0xe0c8334e41333cebb2f089993d4b9233db5806a4913e357abded823d36990267",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x2755da7bb6b7a70eae26cccf447682298eac1eb8": {
+    "snapshot": {
+      "total": "220387431251937585143083",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "5289298350046502043434",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "220387431251937585143083"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5c46b965fdb11a64a3c4033b7a775e26bd6a514b6ad3baecc136a9dc82d89f12",
+      "0x22a913457ef709623d1627b581bb29b453ad9d3cac219a56271fd42259b5456b",
+      "0x3f483fbff6cd89979fd17eba7b2fe1a0a5c8005e8626eadb35ff97f87cf4e74c",
+      "0xe0c8334e41333cebb2f089993d4b9233db5806a4913e357abded823d36990267",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x4ff9288793ce6c98d7dab429f8ad97691d8a0f5d": {
+    "snapshot": {
+      "total": "44540988361746496875",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1068983720681915925",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "44540988361746496875"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xc6a3586c78adab427f90a803ff975f685be4540727b9042865bb6428e5bd8a54",
+      "0xdc2df15fd40294b2a5b53566b6c00742b3166e76f5f29346e6cf19ba9fbb4ac7",
+      "0x856aa29dff385373327f88ca42466124319be7a347a227cb78c59b6b7ee9e506",
+      "0xa0881a261f4fc054cf82f088d890647693eb2224bf7f3c34235dd3e471ecc74c",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x5eb6fcebbce8b397e501f5eb156f150441cc3c86": {
+    "snapshot": {
+      "total": "30103490679613426583",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "722483776310722238",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "30103490679613426583"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x4fa2f73e99fcbaac1c513a1035077fba31641378dc7fb6bb5497b9c1a8eaa8b7",
+      "0xdc2df15fd40294b2a5b53566b6c00742b3166e76f5f29346e6cf19ba9fbb4ac7",
+      "0x856aa29dff385373327f88ca42466124319be7a347a227cb78c59b6b7ee9e506",
+      "0xa0881a261f4fc054cf82f088d890647693eb2224bf7f3c34235dd3e471ecc74c",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xd607fce24b45d4be5bc6b9aac0540bdff8ddf76b": {
+    "snapshot": {
+      "total": "22685657532929481875",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "544455780790307565",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "22685657532929481875"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x74e7cf29611547e1acf90f304c09dd473b51ad727c10ba565dca10231a7340b9",
+      "0x3ff221180985be9d21f5473ad270128a40f4666d8b615c6a8ee8a90c06ee7d11",
+      "0x856aa29dff385373327f88ca42466124319be7a347a227cb78c59b6b7ee9e506",
+      "0xa0881a261f4fc054cf82f088d890647693eb2224bf7f3c34235dd3e471ecc74c",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xf1c0dc910ecfb7260e97e79d9e89774dca231456": {
+    "snapshot": {
+      "total": "41",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe2784abb28cd7e1e4353022c13c21ead5246e2fd6ce5b51c3ff43cd4ab428b5d",
+      "0x3ff221180985be9d21f5473ad270128a40f4666d8b615c6a8ee8a90c06ee7d11",
+      "0x856aa29dff385373327f88ca42466124319be7a347a227cb78c59b6b7ee9e506",
+      "0xa0881a261f4fc054cf82f088d890647693eb2224bf7f3c34235dd3e471ecc74c",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xdb33efb01ed7f36a803b1e7eaeae737d22f9ebca": {
+    "snapshot": {
+      "total": "2073958346914911398761708",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "49775000325957873570281",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "2073958346914911398761708"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x7ddda940d05fcdb1705512a8ea793faa13778b5b966b19fdb2f59af8770595de",
+      "0xb8f00242e1baa923ab48a5afa2a0865f4b2a102e497db71b8bc1bc43f9d5092a",
+      "0xfe91d628f82012d0aebfdc73e5b4e093339046c462ac3cfd598a413770e57a35",
+      "0xa0881a261f4fc054cf82f088d890647693eb2224bf7f3c34235dd3e471ecc74c",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x5056aa6baa5967d588bbe8f546ec15891bd56a49": {
+    "snapshot": {
+      "total": "331647750109883603943541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "7959546002637206494645",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "331647750109883603943541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xaa634791f945ec7feb4c9883ad8ba3c0cd907c9aa8e5cb2faa51a4d630aa3526",
+      "0xb8f00242e1baa923ab48a5afa2a0865f4b2a102e497db71b8bc1bc43f9d5092a",
+      "0xfe91d628f82012d0aebfdc73e5b4e093339046c462ac3cfd598a413770e57a35",
+      "0xa0881a261f4fc054cf82f088d890647693eb2224bf7f3c34235dd3e471ecc74c",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x200c233de55c1e2ab271edb87e5abce150d637a0": {
+    "snapshot": {
+      "total": "33416289302674913041",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "801990943264197913",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "33416289302674913041"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe5d5bbcece589ccc73dc9df1ecd28ae446d59ccfc905c71d10f1e6d721a04cdf",
+      "0x941af5f639e97c0bb1ce55f9d1858a14fd1e8c512e8cdf347dd7b1f0947eb98b",
+      "0xfe91d628f82012d0aebfdc73e5b4e093339046c462ac3cfd598a413770e57a35",
+      "0xa0881a261f4fc054cf82f088d890647693eb2224bf7f3c34235dd3e471ecc74c",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xe64262a940f948abbe4236eb936e07aa7550a1ff": {
+    "snapshot": {
+      "total": "22102235111778045541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "530453642682673093",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "22102235111778045541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x080f2024346cc23d05d91c8ccb44d92441bb97eb3e2e4a5e99840a8df97ff54b",
+      "0x941af5f639e97c0bb1ce55f9d1858a14fd1e8c512e8cdf347dd7b1f0947eb98b",
+      "0xfe91d628f82012d0aebfdc73e5b4e093339046c462ac3cfd598a413770e57a35",
+      "0xa0881a261f4fc054cf82f088d890647693eb2224bf7f3c34235dd3e471ecc74c",
+      "0x5600f39d5668282ee30dd489af354677e330be9c2b98add0a3f437d651673b8a",
+      "0xecc4df2cc8b6f75084276440c59470ed7463e03221913ec65100ad82f6b2a679",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xf14a04d18cb5ba0fe293f6157cd4593404c12ece": {
+    "snapshot": {
+      "total": "41555617331600500416",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "997334815958412010",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41555617331600500416"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x96b031b9f96753bcc85488b56239556b42607857216385c561b6121a046698f0",
+      "0x0ca4adaa03d01e48e61b3ed2bd98b306902d9cb0b701d23c2180c56010c8d7fc",
+      "0x4d8d19bfa261fd385db0a7fb2b5346220f4eac7da8cf76c0e16fa5ac30e0278f",
+      "0xcdd1c9ac8e6024f061c29c35a1451dc1737d41bad9f63e5a3ab712bf8327e37c",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xed576e57ae40d9e8fae69fc5e71db3a9ae66c23a": {
+    "snapshot": {
+      "total": "1130427261817249650522500",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "27130254283613991612540",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "1130427261817249650522500"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6545ffb6debc48b0518f061e4e25d956e561fec67f0d543f4cc40df081db0f0c",
+      "0x0ca4adaa03d01e48e61b3ed2bd98b306902d9cb0b701d23c2180c56010c8d7fc",
+      "0x4d8d19bfa261fd385db0a7fb2b5346220f4eac7da8cf76c0e16fa5ac30e0278f",
+      "0xcdd1c9ac8e6024f061c29c35a1451dc1737d41bad9f63e5a3ab712bf8327e37c",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x5c46deea1783f1d7e9579b963f2021ac1b5bfe7b": {
+    "snapshot": {
+      "total": "335180329673700121666",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "8044327912168802920",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "335180329673700121666"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6a216921c339ccc94ce094e62c7b92d1c3ac14f5f3f06f5ee02e2b8948ee0f81",
+      "0xdd074b34ea2395fb58eff60f2826da17e757b2181e0e9688a33ec71e6b9e92a3",
+      "0x4d8d19bfa261fd385db0a7fb2b5346220f4eac7da8cf76c0e16fa5ac30e0278f",
+      "0xcdd1c9ac8e6024f061c29c35a1451dc1737d41bad9f63e5a3ab712bf8327e37c",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x35dcf2c2223f335266e17dacbe8777d7c5bf8a15": {
+    "snapshot": {
+      "total": "73077431368688741580583",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1753858352848529797934",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "73077431368688741580583"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5ed3822875b8f899014f46f07ab3afd4f7ed48a02da7b5109f1cde9adad7158c",
+      "0xdd074b34ea2395fb58eff60f2826da17e757b2181e0e9688a33ec71e6b9e92a3",
+      "0x4d8d19bfa261fd385db0a7fb2b5346220f4eac7da8cf76c0e16fa5ac30e0278f",
+      "0xcdd1c9ac8e6024f061c29c35a1451dc1737d41bad9f63e5a3ab712bf8327e37c",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xe20a4f1e92dc89c17388886d37b2ed58f07e2f29": {
+    "snapshot": {
+      "total": "30249319794258426541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "725983675062202237",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "30249319794258426541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xbe97cd2ad5297b5ee04b927f8f9bf1a1749e0993624d7a5a05da6adb66cf129e",
+      "0x97568c7be36d7cc7421f70625673d3899d07766315ba478475855e05bf901f90",
+      "0x07995fbe88c23e18e8d10c7893c6eb01e09f83efe649404047deb0ff92fa74d5",
+      "0xcdd1c9ac8e6024f061c29c35a1451dc1737d41bad9f63e5a3ab712bf8327e37c",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xad0adf554eeac313b1c2fc06526c0ac969c584ad": {
+    "snapshot": {
+      "total": "1217650583333333333333",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "29223614000000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "1217650583333333333333"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x23eb5a5c4253d9a061272c0a60f861fc5afff372971b1b5b51459fe35c90655d",
+      "0x97568c7be36d7cc7421f70625673d3899d07766315ba478475855e05bf901f90",
+      "0x07995fbe88c23e18e8d10c7893c6eb01e09f83efe649404047deb0ff92fa74d5",
+      "0xcdd1c9ac8e6024f061c29c35a1451dc1737d41bad9f63e5a3ab712bf8327e37c",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xd8e10962745f8582cfac5c1ba0039ca968709ceb": {
+    "snapshot": {
+      "total": "63351576203115693541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1520437828874776645",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "63351576203115693541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x8a78ea6622ab6b7f7652f67d612d141f8653ca209fa8658b23d86cc00639e00c",
+      "0xa88b016f06700ad47700fa95ae8993cab2d9c32644a662dd20e4a80104358304",
+      "0x07995fbe88c23e18e8d10c7893c6eb01e09f83efe649404047deb0ff92fa74d5",
+      "0xcdd1c9ac8e6024f061c29c35a1451dc1737d41bad9f63e5a3ab712bf8327e37c",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xf2c95079e35a27c296b01759431e05c38e392a21": {
+    "snapshot": {
+      "total": "35662051580554506333",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "855889237933308152",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "35662051580554506333"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x70c2194124f98a2151d6d0cce0cd30a951673a8facbac992bb43b381fc77afec",
+      "0xa88b016f06700ad47700fa95ae8993cab2d9c32644a662dd20e4a80104358304",
+      "0x07995fbe88c23e18e8d10c7893c6eb01e09f83efe649404047deb0ff92fa74d5",
+      "0xcdd1c9ac8e6024f061c29c35a1451dc1737d41bad9f63e5a3ab712bf8327e37c",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xea3ed91a668b6a56751729016ebafc214dfbeb65": {
+    "snapshot": {
+      "total": "21711237291666666666666",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "521069695000000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "21711237291666666666666"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x33843606c7dce9f9bd11b2dba54e5cc69a8cd8b55a850cd735337963ef557465",
+      "0xd472a5de5b259134aee9b020e1a30094815451b7da6e1af5039b3b64472277b2",
+      "0x0d89abf51ddc6de98d6a49889f9c9e30bf9a434d4aaedbd6bd3746e8ab413957",
+      "0xb73d04c52aa2d22ad1f05f98b32dee22b6fd41e84c5a9b44d7b3cde459b83a00",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x9e7835be9066365485302dacab277a02f5302af3": {
+    "snapshot": {
+      "total": "49332006130012595321458",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1183968147120302287715",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "49332006130012595321458"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x1d5ad561f466ae8f4e73af3f110704faf3e554591b1f07179041637711830cb9",
+      "0xd472a5de5b259134aee9b020e1a30094815451b7da6e1af5039b3b64472277b2",
+      "0x0d89abf51ddc6de98d6a49889f9c9e30bf9a434d4aaedbd6bd3746e8ab413957",
+      "0xb73d04c52aa2d22ad1f05f98b32dee22b6fd41e84c5a9b44d7b3cde459b83a00",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x1847a87a9cad63e55d6825267b73968878a4e4e5": {
+    "snapshot": {
+      "total": "41620844966663672579291",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "998900279199928141903",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41620844966663672579291"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x9baebb69ec7d480cda8e0eb7b157dda360453a0536ad4df0aef5e11ca5813115",
+      "0xcb824a6e1b1eea875657f20360c64656abf124c4f482cb4090d04ccfa1d6d4ca",
+      "0x0d89abf51ddc6de98d6a49889f9c9e30bf9a434d4aaedbd6bd3746e8ab413957",
+      "0xb73d04c52aa2d22ad1f05f98b32dee22b6fd41e84c5a9b44d7b3cde459b83a00",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xac741ebe63a35ed2b217f37f3b6c626765d11ead": {
+    "snapshot": {
+      "total": "41483083146844038041",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "995593995524256913",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41483083146844038041"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xb5971063d1914357d3a86588dc720e41b71ab3f6b11419170b00856137852225",
+      "0xcb824a6e1b1eea875657f20360c64656abf124c4f482cb4090d04ccfa1d6d4ca",
+      "0x0d89abf51ddc6de98d6a49889f9c9e30bf9a434d4aaedbd6bd3746e8ab413957",
+      "0xb73d04c52aa2d22ad1f05f98b32dee22b6fd41e84c5a9b44d7b3cde459b83a00",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xa389e2fc6ed8af24c43cd85752bd8feeb14a1a69": {
+    "snapshot": {
+      "total": "20614284993015446541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "494742839832370717",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "20614284993015446541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xadb05a049f978e46ba971bf4e34343e4d5031b543acb39ee691364cdf5ba63b9",
+      "0x5cad8ba3138229cdc60b04c0e4429cb4885df32e0d928409466ab8dcde820c7b",
+      "0x2c1107e7ac731ddf3463c970ddf47646dd06f983531b7ffa01a54dfc0a2b2f7f",
+      "0xb73d04c52aa2d22ad1f05f98b32dee22b6fd41e84c5a9b44d7b3cde459b83a00",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x262a1482e84bb2c2bd20c7f99bfead8a0c277937": {
+    "snapshot": {
+      "total": "28449207137649392791",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "682780971303585427",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "28449207137649392791"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xaeca40c0f264b6e57945ed685e0184a3e52f333314ba5e49fc82b72a8f96dfb7",
+      "0x5cad8ba3138229cdc60b04c0e4429cb4885df32e0d928409466ab8dcde820c7b",
+      "0x2c1107e7ac731ddf3463c970ddf47646dd06f983531b7ffa01a54dfc0a2b2f7f",
+      "0xb73d04c52aa2d22ad1f05f98b32dee22b6fd41e84c5a9b44d7b3cde459b83a00",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xbc1980f0f5c156180b913092fab43ac31932f27f": {
+    "snapshot": {
+      "total": "23350576336516472375",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "560413832076395337",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "23350576336516472375"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xb70ca8a20c078f2a2eca04434e67b3074645c9add948e2ace56a9be258a66a23",
+      "0x4a7c46e38987fa768491593a1529d507dc08cc69dbda4620d98f00a2bf3c3c29",
+      "0x2c1107e7ac731ddf3463c970ddf47646dd06f983531b7ffa01a54dfc0a2b2f7f",
+      "0xb73d04c52aa2d22ad1f05f98b32dee22b6fd41e84c5a9b44d7b3cde459b83a00",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xdcb7e8f1b586c94dde9b430557e4df6727779aca": {
+    "snapshot": {
+      "total": "265189856766134472468666",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "6364556562387227339248",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "265189856766134472468666"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5c2a185aab80c037c1831a0da0471964732ed918a84f430118c0eaed9c812b72",
+      "0x4a7c46e38987fa768491593a1529d507dc08cc69dbda4620d98f00a2bf3c3c29",
+      "0x2c1107e7ac731ddf3463c970ddf47646dd06f983531b7ffa01a54dfc0a2b2f7f",
+      "0xb73d04c52aa2d22ad1f05f98b32dee22b6fd41e84c5a9b44d7b3cde459b83a00",
+      "0xcf722debce522cb2ad42914ca9142f29aa04b9c41c1a03d531395afa7fc539ab",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x93bb2d258786109439cb268c0a425b314d8abf56": {
+    "snapshot": {
+      "total": "32139311687223715291",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "771343480493369167",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "32139311687223715291"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x9c12e1e93a71ae7184035aa3608babdb00224ad10a4d0443a0ce3085d63cd197",
+      "0x012f124c4f6125caf7736c21868e264e3d8dcdbee1a79362f04776012c9200fb",
+      "0xc826a2f0ce1af883fa0e9b8a8c3e94656b0d2eeffa6a07d76dbfd93776053a82",
+      "0x1a85e179d16a805b98b3dc9ba7d05553d93d6e779072c4b4e1950876274bf057",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xb0e7c2319993c00b9430d18bdd9f98fefb6b5857": {
+    "snapshot": {
+      "total": "21079407909817662166",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "505905789835623892",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "21079407909817662166"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x31bf17810543a171e4ec0f7e4907696ef42e53c4c45a64e5d41618d4f789b415",
+      "0x012f124c4f6125caf7736c21868e264e3d8dcdbee1a79362f04776012c9200fb",
+      "0xc826a2f0ce1af883fa0e9b8a8c3e94656b0d2eeffa6a07d76dbfd93776053a82",
+      "0x1a85e179d16a805b98b3dc9ba7d05553d93d6e779072c4b4e1950876274bf057",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x09a98b8b15c9fadff8524503768479b26ede3ec7": {
+    "snapshot": {
+      "total": "40575051522420308500",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "973801236538087404",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "40575051522420308500"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x852076fb0d7c0e459ebace2b5311d37d4b613c2da60da403cdbe5b3cd5f0442a",
+      "0x03ee9a7f7e913ecd45ff6de9679d66580a087c025aa36e269ee389bcee21c8ea",
+      "0xc826a2f0ce1af883fa0e9b8a8c3e94656b0d2eeffa6a07d76dbfd93776053a82",
+      "0x1a85e179d16a805b98b3dc9ba7d05553d93d6e779072c4b4e1950876274bf057",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x95e0734c3d4dfcdf932c765eba2a359799226b41": {
+    "snapshot": {
+      "total": "21063267299870078166",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "505518415196881876",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "21063267299870078166"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6076ee4f7496d387efb0fa367a87fbf396a3323f208c898256646da714fd38e0",
+      "0x03ee9a7f7e913ecd45ff6de9679d66580a087c025aa36e269ee389bcee21c8ea",
+      "0xc826a2f0ce1af883fa0e9b8a8c3e94656b0d2eeffa6a07d76dbfd93776053a82",
+      "0x1a85e179d16a805b98b3dc9ba7d05553d93d6e779072c4b4e1950876274bf057",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x39934f0a14aa55ab28c569e6d5adba3349ebf823": {
+    "snapshot": {
+      "total": "37097229584715684041",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "890333510033176417",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "37097229584715684041"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x9776a9e05ed7e8539867b04fa96d3084d33666d7fd19eae17d25f1bc40312d94",
+      "0x2a38bfc4a8cce35347359d6183bf5a099fd7293ba02a510c1854dd9045c833b5",
+      "0xae4365182fc1f01be8646f2678d9ee77d547b05321ee6b42482527c18cc9f922",
+      "0x1a85e179d16a805b98b3dc9ba7d05553d93d6e779072c4b4e1950876274bf057",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xef35dfbd99e100776f76976948e250cd0a89c7ef": {
+    "snapshot": {
+      "total": "195953230082331937055708",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "4702877521975966489337",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "195953230082331937055708"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x3ef10c6460975e18a3a52ce7f1bc8b1be6d9a1693b76eef56efadca79187651b",
+      "0x2a38bfc4a8cce35347359d6183bf5a099fd7293ba02a510c1854dd9045c833b5",
+      "0xae4365182fc1f01be8646f2678d9ee77d547b05321ee6b42482527c18cc9f922",
+      "0x1a85e179d16a805b98b3dc9ba7d05553d93d6e779072c4b4e1950876274bf057",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x4e58b97ce2c9a687ff6df2ba7f8f7217ad44327d": {
+    "snapshot": {
+      "total": "36794581848268454750",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "883069964358442914",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "36794581848268454750"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x9b27f8a0db664546a0ffeb4531e384ae0de6f31746836f1e10e1f7cf91b19499",
+      "0x7b32240baec0fb720659edd3de7671e0aa96f9b1d8e7daf03216c52832d5d1d2",
+      "0xae4365182fc1f01be8646f2678d9ee77d547b05321ee6b42482527c18cc9f922",
+      "0x1a85e179d16a805b98b3dc9ba7d05553d93d6e779072c4b4e1950876274bf057",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xe944885cea1bfa3518610cbd2693752ce56908f4": {
+    "snapshot": {
+      "total": "40720055537913335625",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "977281332909920055",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "40720055537913335625"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x20d2c45ce69712e08981397bc08e4c2e3c8a28eefb08686df3dc83dbd3141e03",
+      "0x7b32240baec0fb720659edd3de7671e0aa96f9b1d8e7daf03216c52832d5d1d2",
+      "0xae4365182fc1f01be8646f2678d9ee77d547b05321ee6b42482527c18cc9f922",
+      "0x1a85e179d16a805b98b3dc9ba7d05553d93d6e779072c4b4e1950876274bf057",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xaf7d21d40e688eb4eb791943e46d35a14edca471": {
+    "snapshot": {
+      "total": "41540147074948641958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "996963529798767407",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41540147074948641958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x91e0e61c09d421dc765396af6ccfaffc4590f526a08217851c1e6828a3d59618",
+      "0x0e923413a2fc1f007433683126d8baac3e8ee02ecf7dc0f3efb69956d008812a",
+      "0x72c508fc80db1b5c38331f9b9a91e7f2e55e2532cfe184579bf844e40ebadd31",
+      "0x3309870d5a191d72a5a5003509e4b15afe09ebd72c037e68911390160601e87e",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x7b8d6d838105681303b36d7ce8c80419bc72e714": {
+    "snapshot": {
+      "total": "40810159748582860708",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "979443833965988657",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "40810159748582860708"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x15eeb4a207f2191f2254888463c0f4314dc2c4bef1fcc6db7e274f54fc1ce3ae",
+      "0x0e923413a2fc1f007433683126d8baac3e8ee02ecf7dc0f3efb69956d008812a",
+      "0x72c508fc80db1b5c38331f9b9a91e7f2e55e2532cfe184579bf844e40ebadd31",
+      "0x3309870d5a191d72a5a5003509e4b15afe09ebd72c037e68911390160601e87e",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x8646cc4682e218327bed6630eb7d5c8b370c740d": {
+    "snapshot": {
+      "total": "37124031652392413625",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "890976759657417927",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "37124031652392413625"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe887ed0ffb8b47cc605a867bb51281890c12a88b054b909ad0257a48cf2e74e9",
+      "0xac7c9fd0ba63eedae28c64cfad0a1109b88dcb673461e6832d0972c322d23a93",
+      "0x72c508fc80db1b5c38331f9b9a91e7f2e55e2532cfe184579bf844e40ebadd31",
+      "0x3309870d5a191d72a5a5003509e4b15afe09ebd72c037e68911390160601e87e",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x1d601f4c8463b602084f39471d8c04a686f0edce": {
+    "snapshot": {
+      "total": "36189104376699586791",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "868538505040790083",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "36189104376699586791"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6933d1e93797670b4dd6d736076bc92a72181b068e7a691fb4f53d1bb5748b32",
+      "0xac7c9fd0ba63eedae28c64cfad0a1109b88dcb673461e6832d0972c322d23a93",
+      "0x72c508fc80db1b5c38331f9b9a91e7f2e55e2532cfe184579bf844e40ebadd31",
+      "0x3309870d5a191d72a5a5003509e4b15afe09ebd72c037e68911390160601e87e",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x19f18ecd93ca130a24035ede88159f83b6576cc8": {
+    "snapshot": {
+      "total": "135341587690596222833",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "3248198104574309348",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "135341587690596222833"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x84479f1f3f6b4acd49d498b4cb1299853a890861003265693a9f8c7283b5ce25",
+      "0xa84b32d49d4891fed2f0978dc4389e35a8a03283e61e800193cec357cab52c14",
+      "0x6859fb09b6a5e855f520b5dd0484542d158f8df4ebe7029f1a39bb95089b111a",
+      "0x3309870d5a191d72a5a5003509e4b15afe09ebd72c037e68911390160601e87e",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0x7983c67d0d0c8742e1b60de04c880fc450a0a495": {
+    "snapshot": {
+      "total": "20887677435039411500",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "501304258440945876",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "20887677435039411500"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5ecee3a413e3d811b9ade7b2318909a0048e5134dc0bb053d892eda86724c6c4",
+      "0xa84b32d49d4891fed2f0978dc4389e35a8a03283e61e800193cec357cab52c14",
+      "0x6859fb09b6a5e855f520b5dd0484542d158f8df4ebe7029f1a39bb95089b111a",
+      "0x3309870d5a191d72a5a5003509e4b15afe09ebd72c037e68911390160601e87e",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xb4ffd9b783a71b7cb1790d02e8f744cc32dc9c1f": {
+    "snapshot": {
+      "total": "49503595205065155714375",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1188086284921563737145",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "49503595205065155714375"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xf51e3ffaab196fcf731ccd9ecb8a155965370c6e016a9fd6fa24ff8fe30eec17",
+      "0x26f09e8805ac57ac4f6dfa473dc2c711d98fe21aa9d7e2a9c139c4ace0fe85e4",
+      "0x6859fb09b6a5e855f520b5dd0484542d158f8df4ebe7029f1a39bb95089b111a",
+      "0x3309870d5a191d72a5a5003509e4b15afe09ebd72c037e68911390160601e87e",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xa0e7edd7dfd9828b13393732e9cb34651c06ec14": {
+    "snapshot": {
+      "total": "56858048622495860333",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1364593166939900648",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "56858048622495860333"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x919ae328c2fd547e761cbdcc09ebe2abbb0e6e9cfbf84bb4166873c99900d02d",
+      "0x26f09e8805ac57ac4f6dfa473dc2c711d98fe21aa9d7e2a9c139c4ace0fe85e4",
+      "0x6859fb09b6a5e855f520b5dd0484542d158f8df4ebe7029f1a39bb95089b111a",
+      "0x3309870d5a191d72a5a5003509e4b15afe09ebd72c037e68911390160601e87e",
+      "0x5e0d1b9f86e81715a34ebc11750ddb43b6366d6f448edcfcb08a4a74dfb51e8a",
+      "0xfca2056132dc922728f602ecfd5aa1e25c98958ab20b28e9bdd7b5e8450f493f",
+      "0x42919a7633a40c894e82723678357f38b894454799df602dce1fd925a4fa4ee1"
+    ]
+  },
+  "0xa83f9254afdcf1673dc2b31a6690afd0af1d2bae": {
+    "snapshot": {
+      "total": "42605020591845886833",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1022520494204301284",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "42605020591845886833"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xfdcfb0b73923a877d2ffda028225a2e2da4a366454373fbbcd741e6cb01f27e6",
+      "0x64cf4b9b35d5bf522b38568b8f17ea370367f88221fecd96a026981a81e694a3",
+      "0xa4755282967bcdd40c426fd6894b36f93e0573e1b485155b6940c8339cea5b7b",
+      "0xbb52cb9ff83f7c6876e7a195f1ce2aa591ac06d2978e6b047eaf07d7bcd5f29e",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xf6f9e2eb2df8dee61f11a4e2937f9f1936bf46d6": {
+    "snapshot": {
+      "total": "29999793811976689375",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "719995051487440545",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "29999793811976689375"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x078643f5427f99fb6687fbc4de200f6882fb74bcac289146f8c5a063418a75da",
+      "0x64cf4b9b35d5bf522b38568b8f17ea370367f88221fecd96a026981a81e694a3",
+      "0xa4755282967bcdd40c426fd6894b36f93e0573e1b485155b6940c8339cea5b7b",
+      "0xbb52cb9ff83f7c6876e7a195f1ce2aa591ac06d2978e6b047eaf07d7bcd5f29e",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xc4bd102a87a264faf814f5d4d087214185fb5279": {
+    "snapshot": {
+      "total": "22292700212914861083",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "535024805109956666",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "22292700212914861083"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xfb5aca5a4a38420ababa88ec5867e7a947953b454b29ac082f8cbeb888ec24f6",
+      "0x30ab216c4a93bfaf56febc205e3677aded55bdd2cc6b13fd55d0a4171e361c74",
+      "0xa4755282967bcdd40c426fd6894b36f93e0573e1b485155b6940c8339cea5b7b",
+      "0xbb52cb9ff83f7c6876e7a195f1ce2aa591ac06d2978e6b047eaf07d7bcd5f29e",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xce2bab72c7d21cdf960fd194953daf7544e36231": {
+    "snapshot": {
+      "total": "38265095697168776166",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "918362296732050628",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "38265095697168776166"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe1ce958311141b77078e150614a327fd8cddca8254c2d16cd0651ad1240a7a1a",
+      "0x30ab216c4a93bfaf56febc205e3677aded55bdd2cc6b13fd55d0a4171e361c74",
+      "0xa4755282967bcdd40c426fd6894b36f93e0573e1b485155b6940c8339cea5b7b",
+      "0xbb52cb9ff83f7c6876e7a195f1ce2aa591ac06d2978e6b047eaf07d7bcd5f29e",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x96cd6af97885b2bc556293d98d6f0a56eec7e43e": {
+    "snapshot": {
+      "total": "4462049171064054319000",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "107089180105537303656",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "4462049171064054319000"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x4409d94e490237a2f803525159d777fa6cad9d2cf4952760f56a5894ee411dc1",
+      "0x352e9ba96851c5e4008823cbce0b669e946a20b8e3a85a4f0f7460c1fed52d7b",
+      "0xf3dc0fcb1c2b6d9eb58732cbe7a4afe78b4f57aa4aeb7da0d463fb8f47bb3228",
+      "0xbb52cb9ff83f7c6876e7a195f1ce2aa591ac06d2978e6b047eaf07d7bcd5f29e",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x2f8ad7e46f984410eb9bdf4b9ecf525db20d0dd0": {
+    "snapshot": {
+      "total": "28077152743918650041",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "673851665854047601",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "28077152743918650041"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xd77b4cf583e40607443f9ba64927927c530361673be6032c6fcf9fd8db7e691d",
+      "0x352e9ba96851c5e4008823cbce0b669e946a20b8e3a85a4f0f7460c1fed52d7b",
+      "0xf3dc0fcb1c2b6d9eb58732cbe7a4afe78b4f57aa4aeb7da0d463fb8f47bb3228",
+      "0xbb52cb9ff83f7c6876e7a195f1ce2aa591ac06d2978e6b047eaf07d7bcd5f29e",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x7c847e1f5ec059dc984b3b7d640ff56feb9866c8": {
+    "snapshot": {
+      "total": "13330505367916",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "319932128830",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "13330505367916"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xbb128568fa291ef2640bcc7de843bbed04f59ef84ededbf995527e73e220786d",
+      "0x2a0750d326a40d910f715b0910ad07b79c2ab5e5727f353ae25ab36bb25b7212",
+      "0xf3dc0fcb1c2b6d9eb58732cbe7a4afe78b4f57aa4aeb7da0d463fb8f47bb3228",
+      "0xbb52cb9ff83f7c6876e7a195f1ce2aa591ac06d2978e6b047eaf07d7bcd5f29e",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x7010861fbf4b55f7f14c2a9946d744357ba3eb02": {
+    "snapshot": {
+      "total": "3593644583333333333333",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "86247470000000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "3593644583333333333333"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xf936cd3c6a59104342f973a7da491214ce606196118785db5d698a59604cecb5",
+      "0x2a0750d326a40d910f715b0910ad07b79c2ab5e5727f353ae25ab36bb25b7212",
+      "0xf3dc0fcb1c2b6d9eb58732cbe7a4afe78b4f57aa4aeb7da0d463fb8f47bb3228",
+      "0xbb52cb9ff83f7c6876e7a195f1ce2aa591ac06d2978e6b047eaf07d7bcd5f29e",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x35982287d6180e90ebbc9be1b3a2326515ca0090": {
+    "snapshot": {
+      "total": "38916666666666666666666",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "934000000000000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "38916666666666666666666"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe9f83c669cd8de5da24e22a131f809f1bc9ff648ddb6506162513e79925632f8",
+      "0xfbf69d453d0c84586df75d5ff98903485fb6faa83656858a24cdd1ac57b429d9",
+      "0x8c351d4c6fa3db622aad8405b1a4e20fbe14d48b07139b3e14b71aea7749bda3",
+      "0x72817aa731d04cfcfa64ccb11ba90e0f7165c4eef087625fab277c8d67003c26",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x280a8675cf1d930c638f4f9eb9dbe75823801d5a": {
+    "snapshot": {
+      "total": "8323490345060536506831833",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "199763768281452876163964",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "8323490345060536506831833"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x495a27aa4341ae6826e89567ee12c09ef34e3bb7f27ce68056a13cf2bebe9b0b",
+      "0xfbf69d453d0c84586df75d5ff98903485fb6faa83656858a24cdd1ac57b429d9",
+      "0x8c351d4c6fa3db622aad8405b1a4e20fbe14d48b07139b3e14b71aea7749bda3",
+      "0x72817aa731d04cfcfa64ccb11ba90e0f7165c4eef087625fab277c8d67003c26",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xc084508124a8b76e44a07418a92a868394153771": {
+    "snapshot": {
+      "total": "41608958170948095541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "998614996102754293",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41608958170948095541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xab08aa5825296fb9d29d4af07e6ce575286e2835a6ff1d1d8198cb09c31b2208",
+      "0xc8ffea15d89394ad17a1bf5d2126aae30acda5bd8a109bbb92cc51d79ad5e56a",
+      "0x8c351d4c6fa3db622aad8405b1a4e20fbe14d48b07139b3e14b71aea7749bda3",
+      "0x72817aa731d04cfcfa64ccb11ba90e0f7165c4eef087625fab277c8d67003c26",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x96cb2f6cdf6f301e59724092d03ad119782c093d": {
+    "snapshot": {
+      "total": "148408191480288909583",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "3561796595526933830",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "148408191480288909583"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x8c5315c0a1b60292e08d3e266b95f6fdc64b5b14c673bfce4fa3c38c8f8ea6db",
+      "0xc8ffea15d89394ad17a1bf5d2126aae30acda5bd8a109bbb92cc51d79ad5e56a",
+      "0x8c351d4c6fa3db622aad8405b1a4e20fbe14d48b07139b3e14b71aea7749bda3",
+      "0x72817aa731d04cfcfa64ccb11ba90e0f7165c4eef087625fab277c8d67003c26",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xd048de4000b3a9ac8ed4c2e51c3893206d78eddf": {
+    "snapshot": {
+      "total": "25393412344714946916625",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "609441896273158725999",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "25393412344714946916625"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x565ee94c17217668a035c509a5eae19233ff7b2aa2f39bcc512dbe62050e79a1",
+      "0x6b7dc05c303fb48d9028c7c1a7b7b73ba46cb2db8505af8ed7be4e8fd179f79c",
+      "0xf29966788ebe9cd348c1bd09badd1929a600f4c84574448f3453f4378a54ae88",
+      "0x72817aa731d04cfcfa64ccb11ba90e0f7165c4eef087625fab277c8d67003c26",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x9b00e79b18fb425e82a1a21a3c66217acfda4f3a": {
+    "snapshot": {
+      "total": "27837550091032668500",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "668101202184784044",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "27837550091032668500"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xaf986b279111c98a1d506bed6e0c7d79f2d5b4a383b8a15387342c311ad2d487",
+      "0x6b7dc05c303fb48d9028c7c1a7b7b73ba46cb2db8505af8ed7be4e8fd179f79c",
+      "0xf29966788ebe9cd348c1bd09badd1929a600f4c84574448f3453f4378a54ae88",
+      "0x72817aa731d04cfcfa64ccb11ba90e0f7165c4eef087625fab277c8d67003c26",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x98c8061f7ad5aeec83012fc55b24f1fd6eb1c660": {
+    "snapshot": {
+      "total": "62922582888097828914625",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1510141989314347893951",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "62922582888097828914625"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x8f80b53cfa1eab61d0daf055763a4a507e6ad728627cd0d55d41b8a4a5e03fe6",
+      "0x139b1c9a3fc62c172123e11fb679da50fe877cd56fbd4d8b0b1ef7070341e489",
+      "0xf29966788ebe9cd348c1bd09badd1929a600f4c84574448f3453f4378a54ae88",
+      "0x72817aa731d04cfcfa64ccb11ba90e0f7165c4eef087625fab277c8d67003c26",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x14200888c9b85b4f1e589de4be12e46916b7af31": {
+    "snapshot": {
+      "total": "30819568258506664791",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "739669638204159955",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "30819568258506664791"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6e5515a009257c57bd5a757f0e39e00a00f18289f01b234a0df32807c560de6d",
+      "0x139b1c9a3fc62c172123e11fb679da50fe877cd56fbd4d8b0b1ef7070341e489",
+      "0xf29966788ebe9cd348c1bd09badd1929a600f4c84574448f3453f4378a54ae88",
+      "0x72817aa731d04cfcfa64ccb11ba90e0f7165c4eef087625fab277c8d67003c26",
+      "0x454e70259e1a762d361800a93a2de6bc132d54e17abe246ad114519955ccdb25",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x1777281a2b6610d40ff726c3e03bbdc3b93d31ad": {
+    "snapshot": {
+      "total": "1077876260158463372416",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "25869030243803120938",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "1077876260158463372416"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xedd7896070d9f15c7242b006fb96d25aac6a8a48652f23d4f9e92bbf44767be6",
+      "0x6f55a4006b48592a6922a5b47f0ed8ca525ea072490d8eccd20ff40f56857ce3",
+      "0x63a4b3de46de50af2eae2882652dac55dfd77827bb7a5ca02cc0c01c7d2ca023",
+      "0xa24111f67e165cb22cfe0bd569d9fda04db6fe8ca352b50e04672adc18d43841",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x3f240c6144408906c356bca4ef30ed6f4d656328": {
+    "snapshot": {
+      "total": "19094350672324214541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "458264416135781149",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "19094350672324214541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x0b3b21b96321b6fb3b8034bf5bba29cc187632774312d4ba4c23b5e372585486",
+      "0x6f55a4006b48592a6922a5b47f0ed8ca525ea072490d8eccd20ff40f56857ce3",
+      "0x63a4b3de46de50af2eae2882652dac55dfd77827bb7a5ca02cc0c01c7d2ca023",
+      "0xa24111f67e165cb22cfe0bd569d9fda04db6fe8ca352b50e04672adc18d43841",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x7a429e1cb54bedb645c612354cdc58b00c477419": {
+    "snapshot": {
+      "total": "39220385725053886541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "941289257401293277",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "39220385725053886541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xa0cc41265643c90bf0166749e599bf9ce5d555c742b32a5b7dbc11665b480737",
+      "0xf37b96bfe4e30028184a074f62836fd59f97479061d3d524b380284d8a98d6fd",
+      "0x63a4b3de46de50af2eae2882652dac55dfd77827bb7a5ca02cc0c01c7d2ca023",
+      "0xa24111f67e165cb22cfe0bd569d9fda04db6fe8ca352b50e04672adc18d43841",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x585c17a13241bc44d4aca25852a219bdddef6659": {
+    "snapshot": {
+      "total": "93919891456676140151750",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "2254077394960227363642",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "93919891456676140151750"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xff0a9eb5b2a14454bf385a544f30142e6792182c1072dc83747098cd25f5fa5d",
+      "0xf37b96bfe4e30028184a074f62836fd59f97479061d3d524b380284d8a98d6fd",
+      "0x63a4b3de46de50af2eae2882652dac55dfd77827bb7a5ca02cc0c01c7d2ca023",
+      "0xa24111f67e165cb22cfe0bd569d9fda04db6fe8ca352b50e04672adc18d43841",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x0d99d9c32d012620ee07dbf0b7a020a633c4fbcd": {
+    "snapshot": {
+      "total": "26639223066869600333",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "639341353604870408",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "26639223066869600333"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x3439eb2ec6e4f217bc82d394db557e6e8c3c27c1f7f70a675ac289eaff03c5db",
+      "0x65065b8a0e90f83942c7f9703f857bbd277e8885505654a93ba2c25608f2c1a1",
+      "0x5e3348b14cc0e11b9f95f48265d5def05f3c96c2a9fe4550444c5bdfad9874a5",
+      "0xa24111f67e165cb22cfe0bd569d9fda04db6fe8ca352b50e04672adc18d43841",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xc5d16847874f3c47c5dfec353d01105896459d0f": {
+    "snapshot": {
+      "total": "18873089590714450381083",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "452954150177146809146",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "18873089590714450381083"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xea0f4eeb31ae7af924d74a4cb415903a264c68735da52cd199b4a0cfb563c40e",
+      "0x65065b8a0e90f83942c7f9703f857bbd277e8885505654a93ba2c25608f2c1a1",
+      "0x5e3348b14cc0e11b9f95f48265d5def05f3c96c2a9fe4550444c5bdfad9874a5",
+      "0xa24111f67e165cb22cfe0bd569d9fda04db6fe8ca352b50e04672adc18d43841",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x9fed225115a1374c7f0faef307d471c80fff1893": {
+    "snapshot": {
+      "total": "139827918127633352984416",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "3355870035063200471626",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "139827918127633352984416"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xcef95b21e0d3295ff6d4466a494802ea27730deca5a122bbd37f394f4431f9c2",
+      "0x627b4666825a05b02df210c37a4e458d91b018d148b2fc0b0e2b8ad4b6f14d47",
+      "0x5e3348b14cc0e11b9f95f48265d5def05f3c96c2a9fe4550444c5bdfad9874a5",
+      "0xa24111f67e165cb22cfe0bd569d9fda04db6fe8ca352b50e04672adc18d43841",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x8a2ff4f48a2aef354d96339946b03fd740293bce": {
+    "snapshot": {
+      "total": "140536803532831304416",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "3372883284787951306",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "140536803532831304416"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x85c8c3fa166fc5eee2afbcfe4fabe6fce73efc43a90b9525e7c7033ebfc8bffe",
+      "0x627b4666825a05b02df210c37a4e458d91b018d148b2fc0b0e2b8ad4b6f14d47",
+      "0x5e3348b14cc0e11b9f95f48265d5def05f3c96c2a9fe4550444c5bdfad9874a5",
+      "0xa24111f67e165cb22cfe0bd569d9fda04db6fe8ca352b50e04672adc18d43841",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x161f47eeffbcad412bb3d8b890bf4cb3a7e80a95": {
+    "snapshot": {
+      "total": "70695848411203830666",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1696700361868891936",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "70695848411203830666"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x958f7683f6be2de094416df0e2eadf033854b73566a86ddfb38c92f52046da9e",
+      "0xe64ac4874b9c65500aa412f943de4e2cf856b066f55a4cea7bc6bc30c7cf3a54",
+      "0x34ba9711df2635b8ae7f3bcaa9859c53e9ef669ea5234328ef6cb14a37e769e2",
+      "0x02c3a2ccb2ce28811919b140c7ec4ff3c9c6d4428fe0d61197bc695ca36f9b94",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xf84bfa23c2ab766c47056011b26e2d12ade5c754": {
+    "snapshot": {
+      "total": "41666666666666666666666",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1000000000000000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41666666666666666666666"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x11420860acca024f2765cd4e9c0624b4f4c3d51437c63460b5877320338c0e5f",
+      "0xe64ac4874b9c65500aa412f943de4e2cf856b066f55a4cea7bc6bc30c7cf3a54",
+      "0x34ba9711df2635b8ae7f3bcaa9859c53e9ef669ea5234328ef6cb14a37e769e2",
+      "0x02c3a2ccb2ce28811919b140c7ec4ff3c9c6d4428fe0d61197bc695ca36f9b94",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x682540d50a8d56816c7214307ce972e43c592b05": {
+    "snapshot": {
+      "total": "44700947487159959699458",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1072822739691839032787",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "44700947487159959699458"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xb891550569f6d10dd403223213272b7d96ff54283f1ebd451ec05da20c879e06",
+      "0xc30673e5ac494e4cb20906162c4c1b0a555ab184b14eb0f8a466787997080d84",
+      "0x34ba9711df2635b8ae7f3bcaa9859c53e9ef669ea5234328ef6cb14a37e769e2",
+      "0x02c3a2ccb2ce28811919b140c7ec4ff3c9c6d4428fe0d61197bc695ca36f9b94",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xbab3b9cb224b0b6ed4c4bac7385dea2d06ea9489": {
+    "snapshot": {
+      "total": "1802279701344968931051041",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "43254712832279254345225",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "1802279701344968931051041"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xc0eda4a18e96fdd84a2e4df18db119bc7592e365f40ef5272e5b790d91944498",
+      "0xc30673e5ac494e4cb20906162c4c1b0a555ab184b14eb0f8a466787997080d84",
+      "0x34ba9711df2635b8ae7f3bcaa9859c53e9ef669ea5234328ef6cb14a37e769e2",
+      "0x02c3a2ccb2ce28811919b140c7ec4ff3c9c6d4428fe0d61197bc695ca36f9b94",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x3d8adaed14c50c8bbd63ea6d7d20ffff56cbd79a": {
+    "snapshot": {
+      "total": "18385937521503153554541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "441262500516075685309",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "18385937521503153554541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x083f07102ba37c4a2482ffb770ef5b7565684c63d5a357693ebdb5345f1a3d38",
+      "0x7269e94c5a3a5dcb63f2563ffcbf13e8f72dd1faa894c136b6bd28b2c2044f3f",
+      "0xdea97d658b04e273158adb36d9f091f7c9cd870f6d7d83cc9195c9ea7c65ece7",
+      "0x02c3a2ccb2ce28811919b140c7ec4ff3c9c6d4428fe0d61197bc695ca36f9b94",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x8bfb0a6848a402d9931ba22797f82781c6e1711f": {
+    "snapshot": {
+      "total": "13140838647675664926625",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "315380127544215958239",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "13140838647675664926625"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x4cc33f00d8875ea449676184e788b4b67cf5af8af9e2088feb84617961c506af",
+      "0x7269e94c5a3a5dcb63f2563ffcbf13e8f72dd1faa894c136b6bd28b2c2044f3f",
+      "0xdea97d658b04e273158adb36d9f091f7c9cd870f6d7d83cc9195c9ea7c65ece7",
+      "0x02c3a2ccb2ce28811919b140c7ec4ff3c9c6d4428fe0d61197bc695ca36f9b94",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x92099e29980f9f0031ae6cb4b507d61ca76ab0f6": {
+    "snapshot": {
+      "total": "10194550666666666666666",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "244669216000000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "10194550666666666666666"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5c37ee034afca3dc9bc0dd2669880280c25633cdee34f63910451b91737dd308",
+      "0x68d50ce5609bb227f38477a0d46d4787b6313e182f30b63e9a3d668f050d01fb",
+      "0xdea97d658b04e273158adb36d9f091f7c9cd870f6d7d83cc9195c9ea7c65ece7",
+      "0x02c3a2ccb2ce28811919b140c7ec4ff3c9c6d4428fe0d61197bc695ca36f9b94",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xd18c7d59f3c7a5a5dc3e1d8df92a21c645735739": {
+    "snapshot": {
+      "total": "21961257980418884750",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "527070191530053234",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "21961257980418884750"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe1afa9b1c983fa96ae16d1c620889067e14d176f8342fdf20588e314ccdf02dd",
+      "0x68d50ce5609bb227f38477a0d46d4787b6313e182f30b63e9a3d668f050d01fb",
+      "0xdea97d658b04e273158adb36d9f091f7c9cd870f6d7d83cc9195c9ea7c65ece7",
+      "0x02c3a2ccb2ce28811919b140c7ec4ff3c9c6d4428fe0d61197bc695ca36f9b94",
+      "0x36d7bd881248dbed0916e2ca7936e754ee88ba6074c5629e22cd2316e2ba21b5",
+      "0xba77f3270517a9fcb2211bbb97a99e5e048e2c649eae5a6c86443da9cd9bafbf",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xe6dec9ab1801b1e61f060dc1c76eaf1cc42710e2": {
+    "snapshot": {
+      "total": "27034103588059722000",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "648818486113433328",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "27034103588059722000"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xd5756333fc9a9f1362d3db6c8ef07bfb967df847673f565d6a53bcbd7fe6f30f",
+      "0xb7aed45ad2c707074ff842382ade6af53bb6902fc4d0496adb2bcc4731ca261b",
+      "0x4b7fca1c1353c46385b7f4830489607b4b7a6b51f9c54600ddefb315f1cd2075",
+      "0xbcf697e4de9b49f560e5702f43cdb8c307b0f2a9f993c71eefa72cc3bc481fa7",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xce536fc834fe2c4cca8638b219b17c7bed3ddc08": {
+    "snapshot": {
+      "total": "24122650836844536958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "578943620084268887",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "24122650836844536958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x2d1067c5d8824f8d288836212e455c68fd3a604c2789d32ac20b227f806db775",
+      "0xb7aed45ad2c707074ff842382ade6af53bb6902fc4d0496adb2bcc4731ca261b",
+      "0x4b7fca1c1353c46385b7f4830489607b4b7a6b51f9c54600ddefb315f1cd2075",
+      "0xbcf697e4de9b49f560e5702f43cdb8c307b0f2a9f993c71eefa72cc3bc481fa7",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xacd7441f9b73189f4ef61a0c9725bf0816fae124": {
+    "snapshot": {
+      "total": "42966097877546391458958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1031186349061113395015",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "42966097877546391458958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x0aa1b4d0a180686af7d9ec93501ec5364fa694bf8d6f0c30f4b9a3c4150aafe3",
+      "0x8046f95c5e23ea1a483c217d653dc84663458ed612e0f366c2fa338d134f1b04",
+      "0x4b7fca1c1353c46385b7f4830489607b4b7a6b51f9c54600ddefb315f1cd2075",
+      "0xbcf697e4de9b49f560e5702f43cdb8c307b0f2a9f993c71eefa72cc3bc481fa7",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x02ce3b6c086e88616783163fb095578c86fbd4a9": {
+    "snapshot": {
+      "total": "72112883875000000000000",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1730709213000000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "72112883875000000000000"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x091e9aeeb61211a7974da4d77ca669de30ef19c5cb46958dc86474df4b738de8",
+      "0x8046f95c5e23ea1a483c217d653dc84663458ed612e0f366c2fa338d134f1b04",
+      "0x4b7fca1c1353c46385b7f4830489607b4b7a6b51f9c54600ddefb315f1cd2075",
+      "0xbcf697e4de9b49f560e5702f43cdb8c307b0f2a9f993c71eefa72cc3bc481fa7",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xf2eda2787d728c3e640000c9c67fb88e61355804": {
+    "snapshot": {
+      "total": "23040612625000000000000",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "552974703000000000000",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "23040612625000000000000"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5dd71feab5c7d0fbac95ea83d2c26559e78ba4832e63b2119388ecfbfef5f685",
+      "0x09ad271c8813c0e247b43a4941397af6168f95a7e7acc61b57664368e7071d37",
+      "0x5de585602746001e9ece3876b3b92101660b3de5094e4ec072157b777a3c0655",
+      "0xbcf697e4de9b49f560e5702f43cdb8c307b0f2a9f993c71eefa72cc3bc481fa7",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xd9233c98d84e50f07b122ee0de0a6a50f49127e0": {
+    "snapshot": {
+      "total": "41014189457868387791",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "984340546988841307",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41014189457868387791"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x2755560e8e07695fbc711b6f640772ee800b76a970a7b584f9c7bc4465dbdc33",
+      "0x09ad271c8813c0e247b43a4941397af6168f95a7e7acc61b57664368e7071d37",
+      "0x5de585602746001e9ece3876b3b92101660b3de5094e4ec072157b777a3c0655",
+      "0xbcf697e4de9b49f560e5702f43cdb8c307b0f2a9f993c71eefa72cc3bc481fa7",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x7cbb5da95442fa56c8549a3f0f0ffc397c7b5c18": {
+    "snapshot": {
+      "total": "21391099673915620791",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "513386392173974899",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "21391099673915620791"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xff31ac5ffcd51e734e3cf2f8913da26bbd6aede4e4e24ab7bbdc3c9f8189c8b7",
+      "0x32de23da45621483df1323e11d81b27e69b3fe9ea966851e771c691f1de588a8",
+      "0x5de585602746001e9ece3876b3b92101660b3de5094e4ec072157b777a3c0655",
+      "0xbcf697e4de9b49f560e5702f43cdb8c307b0f2a9f993c71eefa72cc3bc481fa7",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x1f26f92a901dfacb8d8522e45bbb69c515f3013e": {
+    "snapshot": {
+      "total": "40606460462118502208",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "974555051090844053",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "40606460462118502208"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6d42cc28e3ff4e796f12b537de926863c747e2d7c6f9a6a037c3f6f7852e6dd5",
+      "0x32de23da45621483df1323e11d81b27e69b3fe9ea966851e771c691f1de588a8",
+      "0x5de585602746001e9ece3876b3b92101660b3de5094e4ec072157b777a3c0655",
+      "0xbcf697e4de9b49f560e5702f43cdb8c307b0f2a9f993c71eefa72cc3bc481fa7",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xe97178f627268f4cead069237db9f50f66d17d97": {
+    "snapshot": {
+      "total": "31688952766052615583",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "760534866385262774",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "31688952766052615583"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe1ea57c925de3038c190cd408ee3a901dd340dafa9161b6ef41ea6a2dcc28209",
+      "0x2ce101dfc729e1ff380c1dd017dd4ab149a37847baaecc44f31a7ee60d6c4c1e",
+      "0xee1f54f00b6fa59339f441cf78df1c2a03e127a01ef468b547e7c883acb1691c",
+      "0x419544b3b80de7404f3177db9f5309c89ceaec4528d1a2e645a30a52f826a150",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x1398c7c0399e911f221b6d907299be5669fa11ae": {
+    "snapshot": {
+      "total": "38944335329800318958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "934664047915207655",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "38944335329800318958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xd6a2ae1a1f03fcd2ae93e01a684a1a40a43be1d9b797d2e4954155cef220de7f",
+      "0x2ce101dfc729e1ff380c1dd017dd4ab149a37847baaecc44f31a7ee60d6c4c1e",
+      "0xee1f54f00b6fa59339f441cf78df1c2a03e127a01ef468b547e7c883acb1691c",
+      "0x419544b3b80de7404f3177db9f5309c89ceaec4528d1a2e645a30a52f826a150",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x505428711f235aef769bc9320977c7c3cbb6cd87": {
+    "snapshot": {
+      "total": "24845458896318643125",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "596291013511647435",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "24845458896318643125"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x9bd17340c251cd4703fcbb5de27278ffa41d03bc6b59ee4bcf531402f2e1bc74",
+      "0x85804471deff61fae987dc862dea90c2184ce3820d5e0e61b68c8fcea67cfd50",
+      "0xee1f54f00b6fa59339f441cf78df1c2a03e127a01ef468b547e7c883acb1691c",
+      "0x419544b3b80de7404f3177db9f5309c89ceaec4528d1a2e645a30a52f826a150",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x0647e46db55a10efa59a2edb63b51184175d1a26": {
+    "snapshot": {
+      "total": "36788689456578110375",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "882928546957874649",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "36788689456578110375"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe11f3c7f9e9c1340a971f3bf8bdd1ff041d53591e416c5d13aac06ea929f48b0",
+      "0x85804471deff61fae987dc862dea90c2184ce3820d5e0e61b68c8fcea67cfd50",
+      "0xee1f54f00b6fa59339f441cf78df1c2a03e127a01ef468b547e7c883acb1691c",
+      "0x419544b3b80de7404f3177db9f5309c89ceaec4528d1a2e645a30a52f826a150",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xbebcf6cddce5b5a494d7ce051ae3688a925bd10b": {
+    "snapshot": {
+      "total": "1489909176409979500",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "35757820233839508",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "1489909176409979500"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xb225cbbfaf94e835213cfca6b26c8c48d032e56d13d641301f5da5864e939379",
+      "0x37037ac0bc0b9640fffeb840356e8ee6b635ff94c556eb7464364ee82c5701ad",
+      "0xa5398030fe1ac96ca564ff7d463a4187cc1148cdd2e0edb0991499903f257514",
+      "0x419544b3b80de7404f3177db9f5309c89ceaec4528d1a2e645a30a52f826a150",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xb17bbfbd1cc5faee7976d7f0ee8249ebddf78726": {
+    "snapshot": {
+      "total": "41839518886792014370750",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1004148453283008344898",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "41839518886792014370750"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x45ef8e9826f7d637dda1fb4995e7780d18ea267f9864c9f58d78bf3a81a11c28",
+      "0x37037ac0bc0b9640fffeb840356e8ee6b635ff94c556eb7464364ee82c5701ad",
+      "0xa5398030fe1ac96ca564ff7d463a4187cc1148cdd2e0edb0991499903f257514",
+      "0x419544b3b80de7404f3177db9f5309c89ceaec4528d1a2e645a30a52f826a150",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x26938dfd4f89f9450a5402688a4cb1ba88e09d29": {
+    "snapshot": {
+      "total": "50706839200269421708",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1216964140806466121",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "50706839200269421708"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xb7f16706962cc23fefb6acaa798b26acc524bdc58da7a8f74acd6b9fa9b004d7",
+      "0x13153037c9e87d9f7824e24e29d0843901d5ae17f91e5f5b39764cda0c0693f4",
+      "0xa5398030fe1ac96ca564ff7d463a4187cc1148cdd2e0edb0991499903f257514",
+      "0x419544b3b80de7404f3177db9f5309c89ceaec4528d1a2e645a30a52f826a150",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x2086280e38478a13e2705125d4bbcb5d16b4ab46": {
+    "snapshot": {
+      "total": "119928005277130939649541",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "2878272126651142551589",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "119928005277130939649541"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xdc12da06c0e369511102632bc9ae72c208025ffcd069920860e1a48a450b1a0c",
+      "0x13153037c9e87d9f7824e24e29d0843901d5ae17f91e5f5b39764cda0c0693f4",
+      "0xa5398030fe1ac96ca564ff7d463a4187cc1148cdd2e0edb0991499903f257514",
+      "0x419544b3b80de7404f3177db9f5309c89ceaec4528d1a2e645a30a52f826a150",
+      "0x521d3090f32dafdf3513cc2838bfdca7c258fe36a9299e3af1ff46b8d0635f66",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x19882c42b8233128b4fc7c1c39ddb994060fd316": {
+    "snapshot": {
+      "total": "22229028429194004166",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "533496682300656100",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "22229028429194004166"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x7d5b3f7894441cb7424961f85fae6c6df1d11dbc6fcb67819856e89b3801620e",
+      "0x524bea4fc397b0e628310531afc3df47026110eefef79922c94c3123be220695",
+      "0x1a4db447c88b996e8b8dcf435e802e6303a2b0621a5308a241a605f75feeea11",
+      "0x38f32f35932ae01927e3229c2f78f7d9f282eac6fda5621bf2d32fb21a817842",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x02a8f422e4623cf409b2a1a64a603b16357ea9da": {
+    "snapshot": {
+      "total": "25076521030018442958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "601836504720442631",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "25076521030018442958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe52f7cb01a81403d9fe752d311de4f1ed8b3b47765fa7dbc55da889665276f22",
+      "0x524bea4fc397b0e628310531afc3df47026110eefef79922c94c3123be220695",
+      "0x1a4db447c88b996e8b8dcf435e802e6303a2b0621a5308a241a605f75feeea11",
+      "0x38f32f35932ae01927e3229c2f78f7d9f282eac6fda5621bf2d32fb21a817842",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x31ae9b3e203b82a360971cee3572fc07136b8b52": {
+    "snapshot": {
+      "total": "29184842266056968416",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "700436214385367242",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "29184842266056968416"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6e729c43924b254d82ec9b3698faeb0a79aa9806530074e03ca306193ffa4f79",
+      "0xf932027047ff6f06850c0bdc5c9db5f562c9717826a3a8bb08ecc173ff7f9a5c",
+      "0x1a4db447c88b996e8b8dcf435e802e6303a2b0621a5308a241a605f75feeea11",
+      "0x38f32f35932ae01927e3229c2f78f7d9f282eac6fda5621bf2d32fb21a817842",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x478fa4c971a077038b4fc5c172c3af5552224ccc": {
+    "snapshot": {
+      "total": "34195369055501343833",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "820688857332032252",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "34195369055501343833"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xe53f06cd333d083f95ca6e0abf3fe26b0d1acf50cb52a9ea5cdb2ac9bc68c556",
+      "0xf932027047ff6f06850c0bdc5c9db5f562c9717826a3a8bb08ecc173ff7f9a5c",
+      "0x1a4db447c88b996e8b8dcf435e802e6303a2b0621a5308a241a605f75feeea11",
+      "0x38f32f35932ae01927e3229c2f78f7d9f282eac6fda5621bf2d32fb21a817842",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x8da02d597a2616e9ec0c82b2b8366b00d69da29a": {
+    "snapshot": {
+      "total": "83273341142896092133208",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1998560187429506211197",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "83273341142896092133208"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x0661b1b37b7f8f8242fb1d34cfbf9526f007c8165244a84369fab5d56c88f38a",
+      "0x4f52a770ed5ed132a99d7cc16a90b4eeee80167a4163ee326779200d94ad9561",
+      "0x9bc1ac4775e45469978808395e622a812b5b02089587c65777d292e94c269047",
+      "0x38f32f35932ae01927e3229c2f78f7d9f282eac6fda5621bf2d32fb21a817842",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xf7d2c9a3ef4f5a62a2bc0a073bc506ff98d7b892": {
+    "snapshot": {
+      "total": "28647058666446431958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "687529407994714367",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "28647058666446431958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xf9c760fb176974b7495861bb3fdd7c634e1dcd955418a62204cee570cbc4ed82",
+      "0x4f52a770ed5ed132a99d7cc16a90b4eeee80167a4163ee326779200d94ad9561",
+      "0x9bc1ac4775e45469978808395e622a812b5b02089587c65777d292e94c269047",
+      "0x38f32f35932ae01927e3229c2f78f7d9f282eac6fda5621bf2d32fb21a817842",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x8b327fb1da65935e3d434e3a8c8da446a2e46b38": {
+    "snapshot": {
+      "total": "63597684083751540907833",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "1526344418010036981788",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "63597684083751540907833"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x1c920296c28764a5a88fc0c28ab8f3ee999b59ef25321e5ff4d8bfa68d22056f",
+      "0x0c942e9873a978ecf65fa8a2f762f1b4b35de2e98f2070f0af02cad44d31df21",
+      "0x9bc1ac4775e45469978808395e622a812b5b02089587c65777d292e94c269047",
+      "0x38f32f35932ae01927e3229c2f78f7d9f282eac6fda5621bf2d32fb21a817842",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x76b687cf4e5a4e73fa3950d6cc642bcc64e40b88": {
+    "snapshot": {
+      "total": "163758661770815318458",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "3930207882499567643",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "163758661770815318458"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xeaeecac38b3f8fa86321559d1703218da3c7572ee65f14e7144240be02c6a95b",
+      "0x0c942e9873a978ecf65fa8a2f762f1b4b35de2e98f2070f0af02cad44d31df21",
+      "0x9bc1ac4775e45469978808395e622a812b5b02089587c65777d292e94c269047",
+      "0x38f32f35932ae01927e3229c2f78f7d9f282eac6fda5621bf2d32fb21a817842",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x2c35a970a19b943bed591d55204034d8672de7ac": {
+    "snapshot": {
+      "total": "33128257455463772958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "795078178931130551",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "33128257455463772958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xb3708cf1a27ba412497600409f10fd129375e4c9bd13357b572e84433c99e177",
+      "0x9fb986c84a6a86f368ec35d23263925e52d19aa7bef77a6ea3be40389640a724",
+      "0xf932964ada0413dc1c79113cc1aab3a856575b3af28e212448f9b4110cb254d6",
+      "0xc4eed15f8b6d5f9c2fa7dc470bd69ad5acf82b078ecd4a729922ddd0a71f9d4d",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x663694857eb8a7432559f5c099a20bac59287d3a": {
+    "snapshot": {
+      "total": "25300248627269596244041",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "607205967054470309857",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "25300248627269596244041"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x95f892130cd6f9da78a7f58903207a607adb2d0cdfcb9fec7fa7f7fed9163276",
+      "0x9fb986c84a6a86f368ec35d23263925e52d19aa7bef77a6ea3be40389640a724",
+      "0xf932964ada0413dc1c79113cc1aab3a856575b3af28e212448f9b4110cb254d6",
+      "0xc4eed15f8b6d5f9c2fa7dc470bd69ad5acf82b078ecd4a729922ddd0a71f9d4d",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x9a7cbfe5af96d2eff788f580f915690369b738fe": {
+    "snapshot": {
+      "total": "36923775470840978458",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "886170611300183483",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "36923775470840978458"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xbf0b664d0b1470196ecf14f28e8da843e8383a83125b9c40acb8d09b2aec3edf",
+      "0x597904958580f29ced9fc5798a48e414cb90f167f724c14cc519a18e3755bb5f",
+      "0xf932964ada0413dc1c79113cc1aab3a856575b3af28e212448f9b4110cb254d6",
+      "0xc4eed15f8b6d5f9c2fa7dc470bd69ad5acf82b078ecd4a729922ddd0a71f9d4d",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x037206acaa8ee3da02e9abe429f51255476a64d6": {
+    "snapshot": {
+      "total": "32566437447600046958",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "781594498742401127",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "32566437447600046958"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0xaaf51b0368d3b8972ae2c27d81d3316538cc943729319447fb1a795be860c56b",
+      "0x597904958580f29ced9fc5798a48e414cb90f167f724c14cc519a18e3755bb5f",
+      "0xf932964ada0413dc1c79113cc1aab3a856575b3af28e212448f9b4110cb254d6",
+      "0xc4eed15f8b6d5f9c2fa7dc470bd69ad5acf82b078ecd4a729922ddd0a71f9d4d",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xd68b22d7f83ace5a10d991391799a332f0e091e8": {
+    "snapshot": {
+      "total": "22559809614979060708",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "541435430759497457",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "22559809614979060708"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x138425570ea5935b531ee938691ca706f6c41151a7c538a837ae2e362a1fdeda",
+      "0x37a2fb807fceabf3a8219d3869a90e4d037757ad0380d7d68ca795aadb21f6f5",
+      "0xd94ce3bc59a1344259270ded279eb7668d32bd84076334f21abac50de92a6759",
+      "0xc4eed15f8b6d5f9c2fa7dc470bd69ad5acf82b078ecd4a729922ddd0a71f9d4d",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x4c89684041eb142a85c917986b3a2d7d85b284cb": {
+    "snapshot": {
+      "total": "32081305277931102875",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "769951326670346469",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "32081305277931102875"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6697fe56d01ee6a9feeca4bc05d5c3918084bdceab408463d5ff13a41230fcba",
+      "0x37a2fb807fceabf3a8219d3869a90e4d037757ad0380d7d68ca795aadb21f6f5",
+      "0xd94ce3bc59a1344259270ded279eb7668d32bd84076334f21abac50de92a6759",
+      "0xc4eed15f8b6d5f9c2fa7dc470bd69ad5acf82b078ecd4a729922ddd0a71f9d4d",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0xbcc03cf987ca9ea5f9032ad1965a043be43cfa6d": {
+    "snapshot": {
+      "total": "12327217779965427576083",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "295853226719170261826",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "12327217779965427576083"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x6d7c441ebbbea34536cf39911e46f8701a1986dd20f8157da3fc24266245add5",
+      "0xc7d3d0818b3f1e5353134038639f7f792a262c854958bd8e918f81d95e671dc4",
+      "0xd94ce3bc59a1344259270ded279eb7668d32bd84076334f21abac50de92a6759",
+      "0xc4eed15f8b6d5f9c2fa7dc470bd69ad5acf82b078ecd4a729922ddd0a71f9d4d",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  },
+  "0x20ec02894d748c59c01b6bf08fe283d7bb75a5d2": {
+    "snapshot": {
+      "total": "27461000075474415458",
+      "balances": {
+        "yPool": "0",
+        "sUSD": "659064001811385971",
+        "yPoolCompensation": "0",
+        "sUSDCompensation": "27461000075474415458"
+      }
+    },
+    "merkleIndex": 1,
+    "merkleProofs": [
+      "0x5865dd8160aeeb7753b492de99d4f0772aeadd8886e9edf405ad8d343188dcba",
+      "0xc7d3d0818b3f1e5353134038639f7f792a262c854958bd8e918f81d95e671dc4",
+      "0xd94ce3bc59a1344259270ded279eb7668d32bd84076334f21abac50de92a6759",
+      "0xc4eed15f8b6d5f9c2fa7dc470bd69ad5acf82b078ecd4a729922ddd0a71f9d4d",
+      "0x70336cc059429cd1519ef7156ceb6168cb9f17f1f87b1771fb3d2f2de559b327",
+      "0x8593932723ba47a5c5d07d50d9954605ba482cce1298525cad02cc1feba37214",
+      "0xdc1fda491426db3645fd3e2679227796e79f5f8ed76c2fa53533698dd6913689"
+    ]
+  }
+}
